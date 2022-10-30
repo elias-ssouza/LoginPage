@@ -2,6 +2,7 @@ package com.example.loginpage
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.loginactivity.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
