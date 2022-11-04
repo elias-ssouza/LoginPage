@@ -4,9 +4,9 @@ import android.app.Application
 import android.preference.PreferenceManager
 import androidx.lifecycle.AndroidViewModel
 import androidx.lifecycle.LiveData
-import androidx.lifecycle.MutableLiveData
+import com.example.loginpage.model.User
 import com.example.loginpage.repository.UsersRepository
-import com.google.firebase.firestore.auth.User
+
 
 class UserViewModel (application: Application) : AndroidViewModel(application) {
 

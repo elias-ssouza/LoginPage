@@ -12,4 +12,6 @@
     <string name="change_password">Alterar senha</string>
     <string name="repeat_new_password">Repetir nova senha</string>
     <string name="new_password">Nova senha</string>
+    <string name="login_ok">Logado</string>
+    <string name="your_email">Digite seu email</string>
 </resources>
