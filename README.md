@@ -6,4 +6,4 @@
 Construção das telas de login, cadastro e recuperação de senha
 
 ### 2ª versão
-Construção do back end e autenticação com Firebase
+Construção do back-end e autenticação com Firebase
